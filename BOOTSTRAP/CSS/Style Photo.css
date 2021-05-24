@@ -1,0 +1,38 @@
+body{
+    background-image: url(../IMAGES/MILAN2.png);
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-size :cover;
+}
+.collapse{
+    background-color:rgba(248, 147, 80, 0.829);
+    margin-top: 1rem;
+}
+.nav-item{
+    margin-left: 15rem;
+}
+ul{
+    margin-left: 0rem;
+}
+h3{
+    text-align: center;
+    color: rgb(165, 215, 247);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 1rem;
+}
+a{
+    font-weight: bold;
+}
+.card-body{
+    background-color: peru;
+}
+.FLEX{
+    display: flex;
+}
+.carousel{
+    height: 50%;
+    width: 50%;
+    margin-left: 29rem; 
+    border: 1px solid white;
+
+}

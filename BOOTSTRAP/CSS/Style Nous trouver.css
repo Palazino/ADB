@@ -1,0 +1,53 @@
+body{
+    background-image: url(../IMAGES/MILAN.png);
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-size :cover;
+}
+.collapse{
+    background-color:rgba(248, 147, 80, 0.829);
+    margin-top: 1rem;
+}
+.nav-item{
+    margin-left: 15rem;
+}
+ul{
+    margin-left: 0rem;
+}
+h3{
+    text-align: center;
+    color: rgb(165, 215, 247);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 1rem;
+}
+a{
+    font-weight: bold;
+}
+.card-body{
+    background-color: peru;
+}
+.FLEX{
+    display: flex;
+}
+th,table,tr{
+    color: rgb(56, 23, 23);
+    padding-left: 4rem;
+    padding-right: 4rem;
+    font-size: 25px;
+    border: 1px white solid;
+    margin-left: 4rem;
+    margin-top: 5rem;
+    background-color:rgba(221, 162, 123, 0.829);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+th{
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+iframe{
+    margin-left: 5rem;
+    margin-top: 8.5rem;
+    
+}
